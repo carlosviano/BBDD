@@ -1,0 +1,1 @@
+Insert into productos (`id`,`Tipo de producto`, `Nombre`,`Descripcion`,`precio`,`Stock`,`Marca`,`Peso`,`Oferta`) Values ("1","Sudadera","Sudadera Azul", "Sudadera para adultos", "80", "20", "Stone Island", "500", "0")

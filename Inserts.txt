@@ -1,0 +1,2 @@
+insert into clientes (`id`, `nombre`  ,`apellidos`, `direccion`, `poblacion` , `provincia` , `DNI`, `Nombre usuario`, `Contrasena`, `CP`, `email`,`opiniones`) 
+value ("1", "Pepe" ,"Viano", "Calle Larios" , "Málaga" , "Málaga" , "33397754g","Pepe1", "soydios", "29015","pepe@gmail.com","4") 
